@@ -1,9 +1,4 @@
-# csi-breathing-rate-prediction
-
-# BreatheSmart: Contactless Breathing Rate Prediction Using Wi-Fi CSI
-
-**Breathing Pattern and Rate Prediction Using Wi-Fi Channel State Information**
-Ibrahim Hafez — Department of Computer Science and Engineering, Egypt-Japan University of Science and Technology, Alexandria, Egypt
+Contactless Breathing Rate Prediction Using Wi-Fi CSI
 
 This repository contains the modular, production-ready implementation of a
 deep learning system that estimates a person's respiratory rate — in
