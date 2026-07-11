@@ -16,7 +16,7 @@ def create_windows(X, y, window=100, step=25):
     return np.array(Xs), np.array(ys)
 
 # 1. Define the base dataset directory
-base_folder = '/content/drive/MyDrive/BreatheSmartv2'
+base_folder = '/path/BreatheSmartv2'
 # 2. Find all config CSV files recursively
 # This will look inside all Figure/BreathingPattern/config folders
 search_pattern = os.path.join(base_folder, '**', 'config*.csv')
