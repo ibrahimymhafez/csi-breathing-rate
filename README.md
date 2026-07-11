@@ -1,4 +1,4 @@
-Contactless Breathing Rate Prediction Using Wi-Fi CSI
+**Contactless Breathing Rate Prediction Using Wi-Fi CSI**
 
 This repository contains the modular, production-ready implementation of a
 deep learning system that estimates a person's respiratory rate — in
